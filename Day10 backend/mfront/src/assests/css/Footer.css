@@ -1,0 +1,40 @@
+/* Footer.css */
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 30px;
+    margin-top: 649px;
+    width: 1280px;
+  }
+  
+  
+  
+  h5 {
+    font-size: 18px; /* Font size for the section headings */
+    margin-bottom: 10px;
+  }
+  
+  .nav-item {
+    margin: 5px 0; /* Spacing between each navigation item */
+  }
+  
+  .nav-item a {
+    color: #fff; /* Text color for the links */
+    text-decoration: none; /* Remove underlines from links */
+  }
+  
+  .nav-item a:hover {
+    text-decoration: underline; /* Add underline on hover */
+  }
+  
+  hr.h1 {
+    border-color: #fff; /* Color of the horizontal rule */
+  }
+  
+  .copyright {
+    font-size: 14px; /* Font size for the copyright text */
+    text-align: center;
+    margin-top: 50px; /* Spacing between the links and copyright text */
+  }
+  
